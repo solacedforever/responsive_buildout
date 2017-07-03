@@ -156,6 +156,9 @@ header {
  #main_content {
    display:block;
  }
+ #sidebar_content {
+   display:block;
+ }
 }
 
 @media screen and (max-width: 1100px) {
